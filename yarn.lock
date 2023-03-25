@@ -2122,7 +2122,7 @@
     prettier "2.8.4"
     typescript "4.6.2"
 
-"@strapi/utils@4.8.2":
+"@strapi/utils@4.8.2", "@strapi/utils@^4.8.2":
   version "4.8.2"
   resolved "https://registry.yarnpkg.com/@strapi/utils/-/utils-4.8.2.tgz#46d008f1695e5b9ad9954208e58273833652b138"
   integrity sha512-cyB9Z9X+mpeSMeVLPNGm0YSrznNkIEwaZd5rXWRTH6XIajxOzB/tUdgFEnfwBOmFHxhm+MKxmf1CigRR609oRw==
